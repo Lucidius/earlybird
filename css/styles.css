@@ -198,8 +198,8 @@ nav, nav ul {
 
 nav a {
 	display: block;
-	line-height: 30px;
-	padding: 0 10px;
+	line-height: 15px;
+	padding: 0 10px 10px;
 	z-index: 100;
 }
 

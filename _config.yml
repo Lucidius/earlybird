@@ -1,5 +1,4 @@
 destination: ./_site
 auto:        true
-lsi:         false
 server_port: 4000
 exclude: earlybird.esproj

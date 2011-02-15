@@ -13,7 +13,7 @@
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{45, 778}</string>
+		<string>{59, 778}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -23,7 +23,7 @@
 		<array>
 			<string>file://localhost/Users/nate/Sites/nate/earlybird/_layouts</string>
 			<string>file://localhost/Users/nate/Sites/nate/earlybird/about</string>
-			<string>file://localhost/Users/nate/Sites/nate/earlybird/css</string>
+			<string>file://localhost/Users/nate/Sites/nate/earlybird/contact</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
@@ -40,19 +40,7 @@
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/nate/Sites/nate/earlybird/about/index.haml</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
 				<string>file://localhost/Users/nate/Sites/nate/earlybird/_layouts/base.html</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
-				<string>file://localhost/Users/nate/Sites/nate/earlybird/index.haml</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
@@ -119,6 +107,24 @@
 			<dict>
 				<key>DocumentURL</key>
 				<string>file://localhost/Users/nate/Sites/nate/earlybird/css/styles.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/nate/Sites/nate/earlybird/index.haml</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/nate/Sites/nate/earlybird/about/index.html</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/nate/Sites/nate/earlybird/contact/index.html</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
