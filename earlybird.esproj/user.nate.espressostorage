@@ -21,9 +21,7 @@
 	<dict>
 		<key>ExpandedURLs</key>
 		<array>
-			<string>file://localhost/Users/nate/Sites/nate/earlybird/_layouts</string>
-			<string>file://localhost/Users/nate/Sites/nate/earlybird/about</string>
-			<string>file://localhost/Users/nate/Sites/nate/earlybird/contact</string>
+			<string>file://localhost/Users/nate/Sites/nate/earlybird</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
@@ -88,19 +86,7 @@
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/nate/Sites/nate/earlybird/_site/css/styles1.css</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
 				<string>file://localhost/Users/nate/Sites/nate/earlybird/_site/css/styles.css</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
-				<string>file://localhost/Users/nate/Sites/nate/earlybird/css/styles1.css</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
@@ -118,13 +104,7 @@
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/nate/Sites/nate/earlybird/about/index.html</string>
-				<key>StateType</key>
-				<string>DefaultTab</string>
-			</dict>
-			<dict>
-				<key>DocumentURL</key>
-				<string>file://localhost/Users/nate/Sites/nate/earlybird/contact/index.html</string>
+				<string>file://localhost/Users/nate/Sites/nate/earlybird/about.haml</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>

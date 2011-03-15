@@ -208,11 +208,16 @@ nav li {
 	line-height: 30px;
 	margin: 0 4px 0 0;
 	height: 155px;
-    background-color: #5fa155;
-    -webkit-border-bottom-left-radius: 5px;
-    -webkit-border-bottom-right-radius: 5px;
-    width: 90px;
+  background-color: #5fa155;
+  -webkit-border-bottom-left-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  width: 90px;
 }
+
+nav li:hover {
+  background-color: #5fa266;
+}
+
 nav li a{
 	color: #3f3f3f;
 	padding: 0 3px;
@@ -250,7 +255,7 @@ nav li a:hover span{
   border-bottom-right-radius: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: brown;
+  background-color: #999999;
   margin-bottom: 15px;
 }
 
@@ -304,7 +309,7 @@ nav li a:hover span{
   float: left;
   height: 150px;
   margin-bottom: 15px;
-  background-color: #347853;
+  background-color: #5FA155;
   line-height: 1.5em;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
