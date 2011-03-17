@@ -13,7 +13,7 @@ body {
 h1 {
 	font-size: 24px;
 	margin-bottom: 15px;
-	color: #630404;
+	color: #2e2e2e;
 }
 
 h2 {margin-bottom: 10px;}
@@ -196,6 +196,17 @@ nav, nav ul {
 	z-index: 100;
 }
 
+nav ul.current-grading li.grading,
+nav ul.current-topsoil li.topsoil,
+nav ul.current-hydroseeding li.hydroseeding,
+nav ul.current-sprinkler-systems li.sprinkler-systems,
+nav ul.current-sprinkler-repair li.sprinkler-repair,
+nav ul.current-landscaping li.landscaping,
+nav ul.current-lawn-maintenance li.lawn-maintenance {
+  height: 170px;
+  color: #ffffff;
+}
+
 nav a {
 	display: block;
 	line-height: 15px;
@@ -208,19 +219,21 @@ nav li {
 	line-height: 30px;
 	margin: 0 4px 0 0;
 	height: 155px;
-  background-color: #5fa155;
+  background-color: #8ba055;
   -webkit-border-bottom-left-radius: 5px;
   -webkit-border-bottom-right-radius: 5px;
   width: 90px;
 }
 
 nav li:hover {
-  background-color: #5fa266;
+  height: 170px;
+  color: #ffffff;
 }
 
 nav li a{
 	color: #3f3f3f;
 	padding: 0 3px;
+	height: 170px;
 	text-decoration: none;
 	text-align: center;
 	font-size: 12px;
@@ -255,7 +268,7 @@ nav li a:hover span{
   border-bottom-right-radius: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #999999;
+  background-color: #d2d2d2;
   margin-bottom: 15px;
 }
 
@@ -309,7 +322,7 @@ nav li a:hover span{
   float: left;
   height: 150px;
   margin-bottom: 15px;
-  background-color: #5FA155;
+  background-color: #8ba055;
   line-height: 1.5em;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
