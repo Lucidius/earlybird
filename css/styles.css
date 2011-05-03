@@ -174,6 +174,7 @@ header #logo {
 /*=== Header ===*/
 header {
   height: 170px;
+  display: block;
 }
 
 
@@ -220,8 +221,12 @@ nav li {
 	margin: 0 4px 0 0;
 	height: 155px;
   background-color: #8ba055;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   -webkit-border-bottom-left-radius: 5px;
   -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  -moz-border-radius-bottomright: 5px;
   width: 90px;
 }
 
@@ -264,10 +269,9 @@ nav li a:hover span{
   width: 100%;
   color: #333;
   padding: 20px 0;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
   background-color: #d2d2d2;
   margin-bottom: 15px;
 }
@@ -324,10 +328,9 @@ nav li a:hover span{
   margin-bottom: 15px;
   background-color: #8ba055;
   line-height: 1.5em;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;  
+  border-radius: 5px;  
+  -webkit-border-radius: 5px;  
+  -moz-border-radius: 5px;  
   }
 .card.right {
   margin-right: 0px;
